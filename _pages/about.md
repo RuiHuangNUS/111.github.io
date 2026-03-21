@@ -57,6 +57,10 @@ redirect_from:
   <div class='paper-box-text'>
     <a href="https://arxiv.org/pdf/2509.17340">AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation</a> 2026 International Conference on Robotics and Automation (ICRA 2026).
     <br>Xin Chen, <strong>Rui Huang</strong>, Longbin Tang, Lin Zhao
+    <br>
+    <a href="https://github.com/XinChen-stars/AERO_MPPI"><img src="https://img.shields.io/github/stars/XinChen-stars/AERO_MPPI?style=social&label=Code+Stars" alt="GitHub Stars Badge"></a>
+    <a href="https://www.youtube.com/watch?v=Ao7u16MGATU" target="_blank"><img src="https://img.shields.io/badge/Watch%20Video-Youtube-red?logo=youtube" alt="YouTube Video Badge"></a>
+    <a href="https://www.bilibili.com/video/BV1wSAwzBEZU" target="_blank"><img src="https://img.shields.io/badge/观看-Bilibili-pink?logo=bilibili&logoColor=white" alt="Bilibili Badge"></a>
   </div>
 </div>
 
@@ -71,6 +75,10 @@ redirect_from:
   <div class='paper-box-text'>
     <a href="https://arxiv.org/abs/2508.12394">SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning</a> IEEE Robotics and Automation Letters (RA-L).
     <br>Zichen Yan, <strong>Rui Huang</strong>, Lei He, Shao Guo and Lin Zhao.
+    <br>
+    <a href="https://github.com/Zichen-Yan/SIGN"><img src="https://img.shields.io/github/stars/Zichen-Yan/SIGN?style=social&label=Code+Stars" alt="GitHub Stars Badge"></a>
+    <a href="https://www.youtube.com/watch?v=86hjDQnQ83Q" target="_blank"><img src="https://img.shields.io/badge/Watch%20Video-Youtube-red?logo=youtube" alt="YouTube Video Badge"></a>
+    <a href="https://www.bilibili.com/video/BV1gs69BTEKo" target="_blank"><img src="https://img.shields.io/badge/观看-Bilibili-pink?logo=bilibili&logoColor=white" alt="Bilibili Badge"></a>
   </div>
 </div>
 
