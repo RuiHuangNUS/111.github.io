@@ -156,6 +156,7 @@ redirect_from:
 - *2022.10* Conprofe Scholarship.
 
 # 🎖 Competitions
+- *2025.10* Low-Altitude Economy Innovation Challenge, MEITUAN@IROS 2025 - Rising Star Award
 - *2025.04*	Singapore Amazing Flying Machine Competition Category E: Drone Swarm Search and Rescue, Judge’s Commendation Award.
 - *2023.08*	The 9th Graduate Future Flight Vehicle Innovation Competition in China, Second prize (Team leader)
 - *2023.06*	[Air Force Aviation Creative Challenge](https://news.qq.com/rain/a/20231103A01LI400) - First Prize (0.6%), Second prize
