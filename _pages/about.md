@@ -33,24 +33,20 @@ redirect_from:
 # 📝 Publications
 
 <!-- Paper 6: ICRA2026 -->
-- ICRA2026: [TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems](https://arxiv.org/pdf/2509.14025). <strong>Rui Huang</strong>, Zhiyu Gao, Siyu Tang, Jialin Zhang, Lei He, Ziqian Zhang, Lin Zhao
+- ICRA2026: [TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems](https://arxiv.org/pdf/2509.14025). 
+
+<strong>Rui Huang</strong>, Zhiyu Gao, Siyu Tang, Jialin Zhang, Lei He, Ziqian Zhang, Lin Zhao
 
 <!-- Paper 5: ICRA2026 -->
-- ICRA2026: [AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation](https://arxiv.org/pdf/2509.17340). Xin Chen, <strong>Rui Huang</strong>, Longbin Tang, Lin Zhao
+- ICRA2026: [AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation](https://arxiv.org/pdf/2509.17340). 
+
+Xin Chen, <strong>Rui Huang</strong>, Longbin Tang, Lin Zhao
 
 <!-- Paper 4: RAL -->
-<div class='paper-box'>
-  <!-- <div class='paper-box-image'>
-    <div>
-      <div class="badge">RAL 2025</div>
-      <img src='images/MARS2.gif' alt="sym" width="100%">
-    </div>
-  </div> -->
-  <div class='paper-box-text'>
-    <a href="https://arxiv.org/abs/2508.12394">SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning</a> IEEE Robotics and Automation Letters
-    <br>Zichen Yan, <strong>Rui Huang</strong>, Lei He, Shao Guo and Lin Zhao.
-  </div>
-</div>
+- RAL2025: [SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning] (https://arxiv.org/abs/2508.12394)
+
+Zichen Yan, <strong>Rui Huang</strong>, Lei He, Shao Guo and Lin Zhao.
+
 
 <!-- Paper 4: IROS2025 Workshop -->
 <div class='paper-box'>
@@ -114,6 +110,9 @@ redirect_from:
 # 📝 Under Review
 
 - [Stabilization of Nonlinear Systems with State-Dependent Representation: From Model-Based to Direct Data-Driven Control](https://arxiv.org/pdf/2510.16451)
+
+- [AION: Aerial Indoor Object-Goal Navigation Using Dual-Policy Reinforcement Learning](https://arxiv.org/pdf/2601.15614)
+
 
 # 🎖 Honors and Awards
 - *2024.04* Outstanding Graduate of Jiangsu Province. 
