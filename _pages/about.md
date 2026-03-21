@@ -157,7 +157,6 @@ We are inviting students to join our project. If you are interested in these top
 
   Under Review: ["Agile Modular Aerial Robot Load Transport with Arbitrary Configurations."](https://arxiv.org/)
 
-<!-- - *2025.08 - Present*, VLA for robotics: TBD -->
 
 <h2 style="text-align: center; margin-top: 2rem;">🙌 Thanks for visiting!</h2>
 
