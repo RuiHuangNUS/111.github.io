@@ -113,6 +113,7 @@ Zichen Yan, <strong>Rui Huang</strong>, Lei He, Shao Guo and Lin Zhao.
 
 - [AION: Aerial Indoor Object-Goal Navigation Using Dual-Policy Reinforcement Learning](https://arxiv.org/pdf/2601.15614)
 
+- [Agile Modular Aerial Robot Load Transport with Arbitrary Configurations](https://arxiv.org/)
 
 # 🎖 Honors and Awards
 - *2024.04* Outstanding Graduate of Jiangsu Province. 
