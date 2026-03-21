@@ -33,19 +33,46 @@ redirect_from:
 # 📝 Publications
 
 <!-- Paper 6: ICRA2026 -->
-- ICRA2026: [TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems](https://arxiv.org/pdf/2509.14025). 
-
-<strong>Rui Huang</strong>, Zhiyu Gao, Siyu Tang, Jialin Zhang, Lei He, Ziqian Zhang, Lin Zhao
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICRA 2026</div>
+      <img src='images/TransforMARS.gif' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <a href="https://arxiv.org/pdf/2509.14025">TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems</a> 2026 International Conference on Robotics and Automation (ICRA 2026).
+    <br><strong>Rui Huang</strong>, Zhiyu Gao, Siyu Tang, Jialin Zhang, Lei He, Ziqian Zhang, Lin Zhao.
+  </div>
+</div>
 
 <!-- Paper 5: ICRA2026 -->
-- ICRA2026: [AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation](https://arxiv.org/pdf/2509.17340). 
-
-Xin Chen, <strong>Rui Huang</strong>, Longbin Tang, Lin Zhao
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICRA 2026</div>
+      <img src='images/AERO-MPPI.gif' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <a href="https://arxiv.org/pdf/2509.17340">AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation</a> 2026 International Conference on Robotics and Automation (ICRA 2026).
+    <br>Xin Chen, <strong>Rui Huang</strong>, Longbin Tang, Lin Zhao
+  </div>
+</div>
 
 <!-- Paper 4: RAL -->
-- RAL2025: [SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning] (https://arxiv.org/abs/2508.12394)
-
-Zichen Yan, <strong>Rui Huang</strong>, Lei He, Shao Guo and Lin Zhao.
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">RAL 2026</div>
+      <img src='images/SIGN.gif' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <a href="https://arxiv.org/abs/2508.12394">SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning</a> IEEE Robotics and Automation Letters (RA-L).
+    <br>Zichen Yan, <strong>Rui Huang</strong>, Lei He, Shao Guo and Lin Zhao.
+  </div>
+</div>
 
 
 <!-- Paper 4: IROS2025 Workshop -->
@@ -90,7 +117,7 @@ Zichen Yan, <strong>Rui Huang</strong>, Lei He, Shao Guo and Lin Zhao.
     </div>
   </div>
   <div class='paper-box-text'>
-    <a href="https://arxiv.org/abs/2503.09376">Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems.</a> 2025 International Conference on Robotics and Automation (ICRA).
+    <a href="https://arxiv.org/abs/2503.09376">Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems.</a> 2025 International Conference on Robotics and Automation (ICRA 2025).
     <br><strong>Rui Huang</strong>, Siyu Tang, Zhiqian Cai, and Lin Zhao.
     <br>
     <a href="https://github.com/RuiHuangNUS/MARS-Reconfig"><img src="https://img.shields.io/github/stars/RuiHuangNUS/MARS-Reconfig?style=social&label=Code+Stars" alt="GitHub Stars Badge"></a>
