@@ -150,6 +150,10 @@ redirect_from:
 
 - [Agile Modular Aerial Robot Load Transport with Arbitrary Configurations](https://arxiv.org/)
 
+- [MARS-Dragonfly: Agile and Robust Flight Control of Modular Aerial Robot Systems](https://arxiv.org/pdf/2604.05499)
+
+
+
 # 🎖 Honors and Awards
 - *2024.04* Outstanding Graduate of Jiangsu Province. 
 - *2023.10* National Scholarship.
@@ -192,6 +196,8 @@ We are inviting students to join our project. If you are interested in these top
   ICRA 2026: ["TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems."](https://arxiv.org/abs/2509.14025)
 
   Under Review: ["Agile Modular Aerial Robot Load Transport with Arbitrary Configurations."](https://arxiv.org/)
+
+  Under Review: ["MARS-Dragonfly: Agile and Robust Flight Control of Modular Aerial Robot Systems"](https://arxiv.org/pdf/2604.05499)
 
 
 <h2 style="text-align: center; margin-top: 2rem;">🙌 Thanks for visiting!</h2>
